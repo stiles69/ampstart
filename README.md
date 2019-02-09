@@ -1,3 +1,11 @@
+![Rogue Designs Logo](https://storage.googleapis.com/stiles-images/RogueLogo-256x158.png)
+		
+# Rogue Designs
+		
+## ampstart
+
+**This is just a copy of ampstart**
+
 # [AMP Start](https://ampstart.com/) ⚡
 
 A collection of quick-start templates to build your AMP page quickly and easily.
